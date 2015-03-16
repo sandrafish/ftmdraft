@@ -1,0 +1,1 @@
+this is a very rough, very beginning example of a django app to collect information on political messages
